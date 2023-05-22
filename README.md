@@ -1,7 +1,7 @@
 # Anahuac 2023: Course on decomposition techniques
 
 Start: 22/05/2023
-End: 215/05/2023
+End: 25/05/2023
 
 Classes will start at 3.00pm (CDMX time)
 
